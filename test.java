@@ -5,6 +5,7 @@ class HelloWorldApp {
 	// comment for develop branch
 	// sprint001 - commit 1
 	// sprint001 - commit 2
+	// sprint002 - commit 1
     }
 }
 
