@@ -15,6 +15,8 @@ class HelloWorldApp {
     // another
 
   c = 2;
+  d = 3;
+
     }
 }
 
